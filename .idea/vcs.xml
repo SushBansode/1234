@@ -2,5 +2,17 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidSliderApplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DayEightAndroidAnimatinApp2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DayNineTextviewButton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DayOneImageApplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DaySevenHorizaintalScrollView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DayTen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DayThreeAndroidDesignPracties2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DayTwoAudioApplicationAAD14" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MaterialApplicationOne" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OfficeManagementSystem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sushan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/XylophoneSystem" vcs="Git" />
   </component>
 </project>
